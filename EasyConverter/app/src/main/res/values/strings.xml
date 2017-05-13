@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EasyConverter</string>
+    <string name="celcius">Celcius</string>
+    <string name="farenheit">Farenheit</string>
+</resources>
