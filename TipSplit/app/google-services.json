@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "588146317927",
+    "firebase_url": "https://tip-split-7e71f.firebaseio.com",
+    "project_id": "tip-split-7e71f",
+    "storage_bucket": "tip-split-7e71f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:588146317927:android:10ae02d635a76a28",
+        "android_client_info": {
+          "package_name": "tipsplit.vtkrishn.com.tipsplit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "588146317927-57jalf7b5a0cfkol473lc20ohkgjtrfs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "tipsplit.vtkrishn.com.tipsplit",
+            "certificate_hash": "0ad4b25450df4c022163413381f49f4c4379231c"
+          }
+        },
+        {
+          "client_id": "588146317927-33h9pfev9cbrm3ljp6ear8vk8nn7dn0l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUO2JiNsVD3NVXIHnM3CRoJMZK_vdemsQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "588146317927-33h9pfev9cbrm3ljp6ear8vk8nn7dn0l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
