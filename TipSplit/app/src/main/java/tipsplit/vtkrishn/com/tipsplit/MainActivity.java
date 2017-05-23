@@ -14,7 +14,6 @@ import android.view.MenuItem;
 import android.view.View;
 import android.view.Window;
 import android.view.WindowManager;
-import android.widget.Button;
 import android.widget.EditText;
 import android.widget.SeekBar;
 import android.widget.TextView;
@@ -48,21 +47,21 @@ public class MainActivity extends AppCompatActivity {
 
         customizeTitleBar();
 
-        Button btn= (Button)findViewById(R.id.btnCapture);
+        //Button btn= (Button)findViewById(R.id.btnCapture);
 
-        btn.setOnClickListener(new View.OnClickListener(){
+        //btn.setOnClickListener(new View.OnClickListener(){
 
-            @Override
-            public void onClick(View arg0) {
-                Intent intent = new Intent (android.provider.MediaStore.ACTION_IMAGE_CAPTURE);
-                //  Intent intent = new Intent (getApplicationContext(),MainActivity2.class);
-
-                //startActivity(intent);
-                startActivityForResult(intent,0);
-
-            }
-
-        });
+//            @Override
+//            public void onClick(View arg0) {
+//                Intent intent = new Intent (android.provider.MediaStore.ACTION_IMAGE_CAPTURE);
+//                //  Intent intent = new Intent (getApplicationContext(),MainActivity2.class);
+//
+//                //startActivity(intent);
+//                startActivityForResult(intent,0);
+//
+//            }
+//
+//        });
 
 
         billAmountEdit.setText("0.0");
